@@ -1,5 +1,5 @@
 # AiChamp_Screening
-# AiChamp_Screening
+
 
 
 Four Tasks were assigned as contained in "Screening_Test_-_AI_Champ_1.pdf" in the root folder
